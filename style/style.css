@@ -1,0 +1,26 @@
+/* GENERAL */
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font:bold;
+}
+.heading{
+}
+/* About */
+#about{
+    padding-top: 150px;
+    background: #d82c2e;
+}
+.profile-picture{
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+/* Nav bar */
+
+.text-justify{
+    text-align: justify;
+}
